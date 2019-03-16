@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FullScreenManagerExample</string>
+    <string name="title">Fullscreen Manager</string>
+    <string name="description">Description:</string>
+</resources>
